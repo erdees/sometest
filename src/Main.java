@@ -6,9 +6,10 @@ public class Main {
 			System.out.println("Print " + i + " time");
 		}
 		
-		System.out.print("Here is your NEW change");
+		System.out.println("Here is your NEW change");
 		//Hi
 		//hi2
 		//hi3
+		System.out.print("Today is 16th of March");
 	}
 }
